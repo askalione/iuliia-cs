@@ -1,15 +1,11 @@
-using System;
+using Iuliia;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Text;
 using System.Text.Json;
-using Iuliia.Utils;
 
-namespace Iuliia.Dto
+namespace Custom.Internal
 {
-    public static class SchemeReader
+    internal static class SchemeReader
     {
         public static Scheme Read(byte[] file)
         {

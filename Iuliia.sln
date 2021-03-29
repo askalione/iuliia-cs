@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iuliia", "Iuliia\Iuliia.csproj", "{09F2A823-3C0F-42DD-8279-3E0E8E94E79F}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iuliia", "Iuliia\Iuliia.csproj", "{09F2A823-3C0F-42DD-8279-3E0E8E94E79F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iullia.Tests", "Iullia.Tests\Iullia.Tests.csproj", "{6E627C98-E71A-4DC1-AC4B-C1DA3D90DA25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iullia.Tests", "Iullia.Tests\Iullia.Tests.csproj", "{6E627C98-E71A-4DC1-AC4B-C1DA3D90DA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom", "Custom\Custom.csproj", "{1CADF612-83AD-4A24-A66E-60EFA00C6D11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,15 @@ Global
 		{6E627C98-E71A-4DC1-AC4B-C1DA3D90DA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E627C98-E71A-4DC1-AC4B-C1DA3D90DA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E627C98-E71A-4DC1-AC4B-C1DA3D90DA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CADF612-83AD-4A24-A66E-60EFA00C6D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CADF612-83AD-4A24-A66E-60EFA00C6D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CADF612-83AD-4A24-A66E-60EFA00C6D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CADF612-83AD-4A24-A66E-60EFA00C6D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBBB22F-9660-4192-8840-0D00299D2D34}
 	EndGlobalSection
 EndGlobal

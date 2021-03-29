@@ -1,0 +1,53 @@
+{
+  "name": "custom2",
+  "description": null,
+  "url": null,
+  "mapping": {
+    "а": "a",
+	"б": "b",
+	"в": "v",
+	"г": "g",
+	"д": "d",
+	"е": "e",
+	"ё": "jo",
+	"ж": "zh",
+	"з": "z",
+	"и": "i",
+	"й": "j",
+	"к": "k",
+	"л": "l",
+	"м": "m",
+	"н": "n",
+	"о": "o",
+	"п": "p",
+	"р": "r",
+	"с": "s",
+	"т": "t",
+	"у": "u",
+	"ф": "f",
+	"х": "h",
+	"ц": "c",
+	"ч": "ch",
+	"ш": "sh",
+	"щ": "shh",
+	"ъ": "",
+	"ы": "y",
+	"ь": "",
+	"э": "je",
+	"ю": "ju",
+	"я": "ja"
+  },
+  "prev_mapping": null,
+  "next_mapping": null,
+  "ending_mapping": null,
+  "samples": [
+    [
+      "Юлия, съешь ещё этих мягких французских булок из Йошкар-Олы, да выпей алтайского чаю",
+      "Julija, sesh eshhjo jetih mjagkih francuzskih bulok iz Joshkar-Oly, da vypej altajskogo chaju"
+    ],
+    [ "Жуковец Анастасия", "Zhukovec Anastasija" ],
+    [ "Радович Константин", "Radovich Konstantin" ],
+    [ "Васильев Егор", "Vasilev Egor" ],
+    [ "Рейхтман Юрий", "Rejhtman Jurij" ]
+  ]
+}

@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace Iuliia.Dto
+namespace Custom.Internal
 {
-    public class SchemeDto
+    internal class SchemeDto
     {
         [JsonPropertyName("name")]
         public string Name { get; set; }
